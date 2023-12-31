@@ -28,9 +28,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(226 177 60)" }}>
-            "I don't know what's better gettin' laid or gettin' paid"{" "}
+            "It's not at all important to get it right the first time. It's vitally important to get it right the last time."{" "}
           </p>
-          <footer className="blockquote-footer">Kanye West</footer>
+          <footer className="blockquote-footer">Andrew Hunt</footer>
         </blockquote>
       </Card.Body>
     </Card>
